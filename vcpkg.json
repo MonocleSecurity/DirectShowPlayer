@@ -1,0 +1,15 @@
+{
+  "name": "directshowplayer",
+  "version-string": "1.0.0",
+  "dependencies": [
+    {
+      "name": "boost-scope-exit"
+    },
+    {
+      "name": "glew"
+    },
+    {
+      "name": "glfw3"
+    }
+  ]
+}
